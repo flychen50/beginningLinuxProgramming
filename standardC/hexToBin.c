@@ -11,23 +11,4 @@ int main(int argc,char** argv){
     value = (value<<4)+xv[strchr(xd,*s)-xd];
 }
   printf("value:%d",value);
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
